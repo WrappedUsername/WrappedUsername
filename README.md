@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [journey-blog](https://github.com/WrappedUsername/journey-blog)
 
-- 🌱 I’m currently learning **Vite, React, Next, Vue, Nuxt, MySQL, GraphQL, HyGraph, Solidity, Hardhat, ethers.js**
+- 🌱 I’m currently learning **Vite, Next, Nuxt, React, Vue, JavaScript/TypeScript, Solidity, Tailwindcss, SCSS, GraphQL, HyGraph, MySQL, Hardhat, ethers.js, docker**
 
 - 📫 How to reach me **wrappedusername@gmail.com**
 
