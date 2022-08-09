@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wrappedusername" alt="wrappedusername" /></a> </p>
 
-- 🔭 I’m currently working on **journey-blog**
+- 🔭 I’m currently working on [journey-blog](https://github.com/WrappedUsername/journey-blog)
 
 - 🌱 I’m currently learning **Vite, React, Next, Vue, Nuxt, MySQL, GraphQL, HyGraph, Solidity, Hardhat, ethers.js**
 
