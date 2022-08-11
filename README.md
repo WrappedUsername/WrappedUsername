@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wrappedusername" alt="wrappedusername" /></a> </p>
 
-- 🔭 I’m currently working on [journey-blog](https://github.com/WrappedUsername/journey-blog)
+- 🔭 I’m currently working on [Journey Blog](https://github.com/WrappedUsername/journey-blog)
 
 - 🌱 I’m currently learning **Vite, Next, Nuxt, React, Vue, JavaScript/TypeScript, Solidity, Tailwindcss, SCSS, GraphQL, HyGraph, MySQL, Hardhat, ethers.js, docker**
 
@@ -23,4 +23,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wrappedusername&show_icons=true&locale=en" alt="wrappedusername" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wrappedusername&" alt="wrappedusername" /></p>
+
+## [Journey Blog](https://github.com/WrappedUsername/journey-blog) with syntax higlighting, almost finished.
+
+![Screen Shot 2022-08-10 at 9 22 44 PM](https://user-images.githubusercontent.com/104662990/184054636-10cae6f4-60e8-49df-a192-ea9f50b1eef2.png)
 
