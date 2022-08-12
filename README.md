@@ -24,7 +24,19 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wrappedusername&" alt="wrappedusername" /></p>
 
-## [Journey Blog](https://github.com/WrappedUsername/journey-blog) with syntax higlighting, almost finished.
+## [Journey Blog,](https://github.com/WrappedUsername/journey-blog) a markdown blog with syntax higlighting, almost finished. I decided on a white background.
 
-![Screen Shot 2022-08-10 at 9 22 44 PM](https://user-images.githubusercontent.com/104662990/184054636-10cae6f4-60e8-49df-a192-ea9f50b1eef2.png)
+![Screen Shot 2022-08-12 at 12 01 15 AM](https://user-images.githubusercontent.com/104662990/184288037-ec52cd2e-c58b-4451-a191-4f87b749447e.png)
+
+![Screen Shot 2022-08-12 at 12 03 19 AM](https://user-images.githubusercontent.com/104662990/184288210-d6d7a63d-af02-4b45-924a-f9ba0d3fbfc6.png)
+
+![Screen Shot 2022-08-11 at 11 48 01 PM](https://user-images.githubusercontent.com/104662990/184287096-1749c025-bb58-4213-93d5-6dc93a90573a.png)
+
+## Comment form, adjacent posts above.
+
+![Screen Shot 2022-08-11 at 11 53 23 PM](https://user-images.githubusercontent.com/104662990/184287373-0a5187ba-b7b7-4734-b479-ff2b38b3ebd2.png)
+
+## Markdown enabled comments.
+
+![Screen Shot 2022-08-11 at 11 55 10 PM](https://user-images.githubusercontent.com/104662990/184287547-3c9e4126-e84b-4bbc-9867-9e386ce1b020.png)
 
