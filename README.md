@@ -7,6 +7,8 @@
 
 - 🔭 I’m currently working on [Journey Blog](https://github.com/WrappedUsername/journey-blog)
 
+- :rocket: Active in production [Journey Blog](https://journey-blog-psi.vercel.app/)
+
 - 🌱 I’m currently learning **Vite, Next, Nuxt, React, Vue, JavaScript/TypeScript, Solidity, Tailwindcss, SCSS, GraphQL, HyGraph, MySQL, Hardhat, ethers.js, docker**
 
 - 📫 How to reach me **wrappedusername@gmail.com**
