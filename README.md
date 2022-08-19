@@ -20,7 +20,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wrappedusername&" alt="wrappedusername" /></p>
 
-## [Journey Blog,](https://github.com/WrappedUsername/journey-blog) a markdown blog with syntax higlighting, almost finished. I decided on a white background.
+## [Journey Blog,](https://github.com/WrappedUsername/journey-blog) a markdown blog with syntax higlighting, some issues need to be fixed.
 
 ![Screen Shot 2022-08-12 at 12 01 15 AM](https://user-images.githubusercontent.com/104662990/184288037-ec52cd2e-c58b-4451-a191-4f87b749447e.png)
 
