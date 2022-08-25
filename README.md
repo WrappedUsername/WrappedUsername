@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wrappedusername" alt="wrappedusername" /></a> </p>
 
-- 🔭 I’m currently working on [WrappedUsername's Portfolio](https://github.com/WrappedUsername/wrappedusernames-portfolio), and [Journey Blog](https://github.com/WrappedUsername/journey-blog)
+- 🔭 I’m currently working on [minting-dapp-template](https://github.com/WrappedUsername/minting-dapp-template), and [WrappedUsername's Portfolio](https://github.com/WrappedUsername/wrappedusernames-portfolio)
 
 - :rocket: Active in production [Journey Blog](https://journey-blog-psi.vercel.app/)
 
