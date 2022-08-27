@@ -9,7 +9,7 @@
 
 - :rocket: Active in production [Journey Blog](https://journey-blog-psi.vercel.app/)
 
-- 🌱 I’m currently learning **Vite, Next, React, JavaScript/TypeScript, Solidity, Tailwindcss, Sass, GraphQL, HyGraph, MySQL, Hardhat, ethers.js, docker**
+- 🌱 I’m currently learning **Next, React, JavaScript/TypeScript, Solidity, Tailwindcss, Sass, GraphQL, HyGraph, MySQL, Hardhat, ethers.js, docker**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
