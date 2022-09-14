@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [minting-dapp-template](https://github.com/WrappedUsername/minting-dapp-template), and [WrappedUsername's Portfolio](https://github.com/WrappedUsername/wrappedusernames-portfolio)
 
-- :rocket: Active in production [Journey Blog](https://journey-blog-psi.vercel.app/)
+- :rocket: Active in production [Portfolio Website](https://wrappedusernames-portfolio.vercel.app/), [Journey Blog](https://journey-blog-psi.vercel.app/)
 
 - 🌱 I’m currently learning **Next, React, JavaScript/TypeScript, Solidity, Tailwindcss, Sass, GraphQL, HyGraph, MySQL, Hardhat, ethers.js, docker**
 
