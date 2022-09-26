@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wrappedusername" alt="wrappedusername" /></a> </p>
 
-- 🔭 I’m currently working on [Foam Chunk Smudge](https://github.com/WrappedUsername/foam-chunk-smudge)
+- 🔭 I’m currently working on
 
-- :rocket: Active in production [Portfolio Website](https://wrappedusernames-portfolio.vercel.app/), [Journey Blog](https://journey-blog-psi.vercel.app/)
+- :rocket: Active in production [Foam Chunk Smudge NFT](https://foam-chunk-smudge.vercel.app/), [Portfolio Website](https://wrappedusernames-portfolio.vercel.app/), and [Journey Blog](https://journey-blog-psi.vercel.app/)
 
 - 🌱 I’m currently learning **Next, React, JavaScript/TypeScript, Solidity, Tailwindcss, Sass, GraphQL, HyGraph, MySQL, Hardhat, ethers.js, docker**
 
