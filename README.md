@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wrappedusername" alt="wrappedusername" /></a> </p>
 
-- 🔭 I’m currently working on
+- 🔭 I’m currently working on [Knuckle Draggers NFT](https://github.com/WrappedUsername/knuckle-draggers-dapp)
 
 - :rocket: Active in production [Foam Chunk Smudge NFT](https://foam-chunk-smudge.vercel.app/), [Portfolio Website](https://wrappedusernames-portfolio.vercel.app/), and [Journey Blog](https://journey-blog-psi.vercel.app/)
 
@@ -40,13 +40,5 @@
 
 ![Screen Shot 2022-08-12 at 12 03 19 AM](https://user-images.githubusercontent.com/104662990/184288210-d6d7a63d-af02-4b45-924a-f9ba0d3fbfc6.png)
 
-![Screen Shot 2022-08-11 at 11 48 01 PM](https://user-images.githubusercontent.com/104662990/184287096-1749c025-bb58-4213-93d5-6dc93a90573a.png)
 
-## Comment form, adjacent posts above.
-
-![Screen Shot 2022-08-11 at 11 53 23 PM](https://user-images.githubusercontent.com/104662990/184287373-0a5187ba-b7b7-4734-b479-ff2b38b3ebd2.png)
-
-## Markdown enabled comments.
-
-![Screen Shot 2022-08-11 at 11 55 10 PM](https://user-images.githubusercontent.com/104662990/184287547-3c9e4126-e84b-4bbc-9867-9e386ce1b020.png)
 
