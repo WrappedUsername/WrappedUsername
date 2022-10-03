@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wrappedusername" alt="wrappedusername" /></a> </p>
 
-- 🔭 I’m currently working on [Knuckle Draggers NFT](https://github.com/WrappedUsername/knuckle-draggers-dapp)
+- 🔭 I’m currently working on [Knuckle Draggers NFT](https://github.com/WrappedUsername/knuckle-draggers-dapp), [Next + TypeScript DApp Template](https://github.com/WrappedUsername/next-typescript-template)
 
 - :rocket: Active in production [Foam Chunk Smudge NFT](https://foam-chunk-smudge.vercel.app/), [Portfolio Website](https://wrappedusernames-portfolio.vercel.app/), and [Journey Blog](https://journey-blog-psi.vercel.app/)
 
