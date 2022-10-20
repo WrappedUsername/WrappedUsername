@@ -6,6 +6,8 @@
 <img alt="Stars" src="https://img.shields.io/github/stars/WrappedUsername/WrappedUsername?style=flat-square&labelColor=343b41"/>
 </p>
 
+![Contribution](https://activity-graph.herokuapp.com/graph?username=WrappedUsername&theme=react-dark&hide_border=true&area=true)
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wrappedusername" alt="wrappedusername" /></a> </p>
 
 - 🔭 I’m currently working on [Knuckle Draggers NFT](https://github.com/WrappedUsername/knuckle-draggers-dapp)
