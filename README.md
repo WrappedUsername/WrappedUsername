@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm WrappedUsername</h1>
 <h3 align="center">Blockchain/Front-end Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=wrappedusername&label=Profile%20views&color=0e75b6&style=flat" alt="wrappedusername" /> </p>
+<p align="left"> 
+<img src="https://komarev.com/ghpvc/?username=wrappedusername&label=Profile%20views&color=0e75b6&style=flat" alt="wrappedusername" /> 
+<img alt="Stars" src="https://img.shields.io/github/stars/WrappedUsername/WrappedUsername?style=flat-square&labelColor=343b41"/>
+</p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wrappedusername" alt="wrappedusername" /></a> </p>
 
