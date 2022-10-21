@@ -2,7 +2,7 @@
 <h3 align="center">Blockchain/Front-end Developer</h3>
 
 <p align="left"> 
-<img src="https://komarev.com/ghpvc/?username=wrappedusername&label=Profile%20views&color=0e75b6&style=flat" alt="wrappedusername" /> 
+<img src="https://komarev.com/ghpvc/?username=wrappedusername&label=Profile%20views&color=f79952&style=flat" alt="wrappedusername" /> 
 <img alt="Stars" src="https://img.shields.io/github/stars/WrappedUsername/WrappedUsername?style=flat-square&labelColor=343b41"/>
 </p>
 
