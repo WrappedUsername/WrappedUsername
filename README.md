@@ -33,11 +33,11 @@
      
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wrappedusername&show_icons=true&locale=en&layout=compact" alt="wrappedusername" /></p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=WrappedUsername&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wrappedusername&show_icons=true&locale=en" alt="wrappedusername" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=WrappedUsername&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wrappedusername&" alt="wrappedusername" /></p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=WrappedUsername&theme=tokyonight" alt="mystreak"/>
 
 ## [Journey Blog,](https://github.com/WrappedUsername/journey-blog) a markdown blog with syntax higlighting, some issues need to be fixed.
 
