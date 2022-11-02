@@ -14,7 +14,7 @@ Cyber-Security Specialist</h3>
 
 - 🔭 I’m currently working on [Knuckle Draggers NFT](https://github.com/WrappedUsername/knuckle-draggers-dapp)
 
-- 👀 Are you currently looking for a 🕸Web3 Blockchain job? Check this out! [Web3 Backend Developer Job](https://app.usebraintrust.com/r/keefe1/?job_id=4575)
+- 👀 Are you currently looking for a 🕸web3 blockchain job or other dev jobs? Check this out! [Developer Jobs Here!](https://app.usebraintrust.com/r/keefe1/)
 
 - :rocket: Active in production [Foam Chunk Smudge NFT](https://foam-chunk-smudge.vercel.app/), [Portfolio Website](https://wrappedusernames-portfolio.vercel.app/), and [Journey Blog](https://journey-blog-psi.vercel.app/)
 
