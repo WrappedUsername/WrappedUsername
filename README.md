@@ -1,12 +1,11 @@
 <h1 align="center">Hi 👋, I'm WrappedUsername</h1>
-<h3 align="center">Solidity-Security Auditor</br>
-Blockchain/DApp Developer</br>
-Cyber-Security Specialist</h3>
 
 <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=wrappedusername&label=Profile%20views&color=f79952&style=flat" alt="wrappedusername" /> 
 <img alt="Stars" src="https://img.shields.io/github/stars/WrappedUsername/WrappedUsername?style=flat-square&labelColor=343b41"/>
 </p>
+
+<h3 align="center">Blockchain Developer</h3>
 
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=WrappedUsername&theme=react-dark&hide_border=true&area=true)
 
