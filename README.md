@@ -11,7 +11,7 @@
 
 <img src="https://github-profile-trophy.vercel.app/?username=WrappedUsername&theme=juicyfresh&no-bg=true" />
 
-- 🔭 I’m currently working on [Knuckle Draggers NFT](https://github.com/WrappedUsername/knuckle-draggers-dapp)
+- 🔭 I’m currently working on [Ethernaut CTF Challenge](https://github.com/WrappedUsername/Ethernaut)
 
 - 👀 Are you currently looking for a 🕸web3 blockchain job or other dev jobs? Check this out! [Developer Jobs Here!](https://app.usebraintrust.com/r/keefe1/)
 
