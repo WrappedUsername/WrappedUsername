@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on [Ethernaut CTF Challenge](https://github.com/WrappedUsername/Ethernaut)
 
-- 👀 Are you currently looking for a 🕸web3 blockchain job or other dev jobs? Check this out! [Developer Jobs Here!](https://app.usebraintrust.com/r/keefe1/)
+- 👀 Are you currently looking for a 🕸 web3 blockchain job or other dev jobs? Check this out! [Developer Jobs Here!](https://app.usebraintrust.com/r/keefe1/)
 
 - :rocket: Active in production [Foam Chunk Smudge NFT](https://foam-chunk-smudge.vercel.app/), [Portfolio Website](https://wrappedusernames-portfolio.vercel.app/), and [Journey Blog](https://journey-blog-psi.vercel.app/)
 
