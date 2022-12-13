@@ -5,7 +5,7 @@
 <img alt="Stars" src="https://img.shields.io/github/stars/WrappedUsername/WrappedUsername?style=flat-square&labelColor=343b41"/>
 </p>
 
-<h3 align="center">Solidity Smart Contract Auditor</h3>
+<h3 align="center">Solidity Smart Contract Auditor 🚀</h3>
 
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=WrappedUsername&theme=react-dark&hide_border=true&area=true)
 
