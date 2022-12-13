@@ -26,6 +26,7 @@ Artist: WrappedUsername + DALL*E
 ```
 
 - 👀 Are you currently looking for a 🕸 web3 blockchain job or other dev jobs? Check this out! [Developer Jobs Here!](https://app.usebraintrust.com/r/keefe1/)
+  - Yes this *is* an affiliate link to help me earn money, *I have not found that first dev job yet, I AM POOR!* 
 
 - :rocket: Active in production [Foam Chunk Smudge NFT](https://foam-chunk-smudge.vercel.app/), [Portfolio Website](https://wrappedusernames-portfolio.vercel.app/), and [Journey Blog](https://journey-blog-psi.vercel.app/)
 
