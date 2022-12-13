@@ -7,9 +7,9 @@
 
 <h3 align="center">Solidity Smart Contract Auditor 🚀</h3>
 
-![Contribution](https://activity-graph.herokuapp.com/graph?username=WrappedUsername&theme=react-dark&hide_border=true&area=true)
-
-![epicastronaut1](https://user-images.githubusercontent.com/104662990/207430123-8d8f5946-69e0-4125-8e8a-0609f1c9b3e4.png)
+<p align="middle">
+<img alt="astronaut" src="https://user-images.githubusercontent.com/104662990/207430123-8d8f5946-69e0-4125-8e8a-0609f1c9b3e4.png"/>
+</p>  
 
 ```yml
 Artist: WrappedUsername + DreamStudio
