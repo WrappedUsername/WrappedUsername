@@ -9,9 +9,14 @@
 
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=WrappedUsername&theme=react-dark&hide_border=true&area=true)
 
+![epicastronaut1](https://user-images.githubusercontent.com/104662990/207430123-8d8f5946-69e0-4125-8e8a-0609f1c9b3e4.png)
+
 <img src="https://github-profile-trophy.vercel.app/?username=WrappedUsername&theme=juicyfresh&no-bg=true" />
 
 - 🔭 I’m currently working on [Ethernaut CTF Challenge](https://github.com/WrappedUsername/Ethernaut)
+
+![eth-astronaut](https://user-images.githubusercontent.com/104662990/207430580-f282399f-14fd-4ea1-b263-7a43fe0d6412.jpg)
+
 
 - 👀 Are you currently looking for a 🕸 web3 blockchain job or other dev jobs? Check this out! [Developer Jobs Here!](https://app.usebraintrust.com/r/keefe1/)
 
