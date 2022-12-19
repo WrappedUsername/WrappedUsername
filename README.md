@@ -30,7 +30,56 @@ Artist: WrappedUsername + DALL*E
 
 - :rocket: Active in production [Foam Chunk Smudge NFT](https://foam-chunk-smudge.vercel.app/), [Portfolio Website](https://wrappedusernames-portfolio.vercel.app/), and [Journey Blog](https://journey-blog-psi.vercel.app/)
 
-- 🌱 I’m currently learning **Next, React, JavaScript/TypeScript, Solidity, Tailwindcss, Sass, GraphQL, HyGraph, MySQL, Hardhat, ethers.js, docker**
+```yml
+Currently I am learning and using for each:
+```
+
+## Front-end
+- Vercel
+- TypeScript
+- Next.js 13
+- React
+- Tailwindcss (switching to pure CSS)
+- Sass
+- Angular
+
+## API
+- Open and Internal
+  - JSON-RPC
+  - GraphQL
+  - REST
+
+## Database, Back-end, and CMS
+- Nest
+- Express
+- GraphQL
+- Hygraph CMS
+- MySQL
+- GCP Firebase
+
+## Cyber-Security
+- Oracle VM VirtualBox
+- Kali Linux
+
+## Data Analytics
+- Google Analytics
+
+## AI and ML 
+- Docker
+- Python
+- TensorFlow
+- GCP
+- IBM Watson Studio
+- Azure
+- Oracle AI
+
+## Blockchain
+- REMIX IDE
+- Hardhat
+- TypeScript
+- Solidity
+- Ethers.js
+- Python for testing (echidna fuzzer)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
