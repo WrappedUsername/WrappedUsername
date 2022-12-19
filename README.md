@@ -60,6 +60,7 @@ Currently I am learning and using for each:
 ## Cyber-Security
 - Oracle VM VirtualBox
 - Kali Linux
+- Python
 
 ## Data Analytics
 - Google Analytics
