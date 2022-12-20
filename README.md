@@ -17,7 +17,7 @@ Artist: WrappedUsername + DreamStudio
 
 <img src="https://github-profile-trophy.vercel.app/?username=WrappedUsername&theme=juicyfresh&no-bg=true" />
 
-- 🔭 I’m currently working on [Ethernaut CTF Challenge](https://github.com/WrappedUsername/Ethernaut)
+- 🔭 I’m currently working on [Adventeurs](https://gitlab.com/justinmillerdev/AdventeurMVP)
 
 ![eth-astronaut](https://user-images.githubusercontent.com/104662990/207430580-f282399f-14fd-4ea1-b263-7a43fe0d6412.jpg)
 
