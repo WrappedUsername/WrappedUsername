@@ -17,7 +17,7 @@ Artist: WrappedUsername + DreamStudio
 
 <img src="https://github-profile-trophy.vercel.app/?username=WrappedUsername&theme=juicyfresh&no-bg=true" />
 
-- 🔭 I’m currently working at [Adventeurs](https://gitlab.com/justinmillerdev/AdventeurMVP/-/tree/dev), [AI ChatBot Update](https://github.com/WrappedUsername/ai-chatbot-update/tree/update-for-pull-request), [Journey Blog Update](https://github.com/WrappedUsername/journey-blog/tree/add-new-features)
+- 🔭 I’m currently working part-time at [Adventeurs](https://gitlab.com/justinmillerdev/AdventeurMVP/-/tree/dev), contributing to [AI ChatBot Update](https://github.com/WrappedUsername/ai-chatbot-update/tree/update-for-pull-request), and also working on my personal project [Journey Blog Update](https://github.com/WrappedUsername/journey-blog/tree/add-new-features)
 
 ![eth-astronaut](https://user-images.githubusercontent.com/104662990/207430580-f282399f-14fd-4ea1-b263-7a43fe0d6412.jpg)
 
