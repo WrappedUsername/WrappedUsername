@@ -17,7 +17,7 @@ Artist: WrappedUsername + DreamStudio
 
 <img src="https://github-profile-trophy.vercel.app/?username=WrappedUsername&theme=juicyfresh&no-bg=true" />
 
-- 🔭 I’m currently working at [Adventeurs](https://gitlab.com/justinmillerdev/AdventeurMVP)
+- 🔭 I’m currently working at [Adventeurs](https://gitlab.com/justinmillerdev/AdventeurMVP/-/tree/dev), [AI ChatBot Update](https://github.com/WrappedUsername/ai-chatbot-update/tree/update-for-pull-request), [Journey Blog Update](https://github.com/WrappedUsername/journey-blog/tree/add-new-features)
 
 ![eth-astronaut](https://user-images.githubusercontent.com/104662990/207430580-f282399f-14fd-4ea1-b263-7a43fe0d6412.jpg)
 
@@ -81,6 +81,9 @@ Currently I am learning and using for each:
 - Solidity
 - Ethers.js
 - Python for testing (echidna fuzzer)
+
+## Blender
+- Python (I am researching this for modeling)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
