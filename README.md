@@ -7,6 +7,8 @@
 
 <h3 align="center">Tech Entrepreneur 🚀</h3>
 
+- 🔭 I’m currently working on Digital Intelligence PWA's and OpenAI plugins: [Digital Intelligence Animal Translator](https://github.com/WrappedUsername/doggy-decoder)
+
 <p align="middle">
 <img alt="astronaut" src="https://user-images.githubusercontent.com/104662990/207430123-8d8f5946-69e0-4125-8e8a-0609f1c9b3e4.png"/>
 </p>  
@@ -16,8 +18,6 @@ Artist: WrappedUsername + DreamStudio
 ```
 
 <img src="https://github-profile-trophy.vercel.app/?username=WrappedUsername&theme=juicyfresh&no-bg=true" />
-
-- 🔭 I’m currently working part-time at [Adventeurs](https://gitlab.com/justinmillerdev/AdventeurMVP/-/tree/dev), and updating my personal projects, [Journey Blog Update](https://github.com/WrappedUsername/journey-blog/tree/add-new-features)
 
 ![eth-astronaut](https://user-images.githubusercontent.com/104662990/207430580-f282399f-14fd-4ea1-b263-7a43fe0d6412.jpg)
 
