@@ -6,6 +6,7 @@
 </p>
 
 <h3 align="center">Tech Entrepreneur 🚀</h3>
+<h4 align="center">🚧 My repos are private while I refacter the code (all repos after refactoring will be open source). I simply do not want to show my code because it needs a lot of work, sorry I am trying to learn and I just want to get the code corrected before I show my work. 🚧</h4>
 
 - 🔭 I’m currently working on Digital Intelligence PWA's and OpenAI plugins: [Digital Intelligence Animal Translator](https://github.com/WrappedUsername/doggy-decoder)
 
