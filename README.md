@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm WrappedUsername, but if you like you can use my real name: Keefe</h1>
+<h1 align="center">Hi 👋, I'm WrappedUsername,<br /> but if you like you can use my real name:<br /> Keefe</h1>
 
 <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=wrappedusername&label=Profile%20views&color=f79952&style=flat" alt="wrappedusername" /> 
