@@ -8,6 +8,8 @@
 <h3 align="center">Tech Entrepreneur 🚀</h3>
 <h4 align="center">🚧 My repos are private while I refacter the code (all repos after refactoring will be open source). I simply do not want to show my code because it needs a lot of work, sorry I am trying to learn and I just want to get the code corrected before I show my work. 🚧</h4>
 
+- 📖 I am currently learning a diffuse runtime execution engine called Jaseci, and a data-spacial programming language called Jac.
+
 - 🔭 I’m currently working on Digital Intelligence PWA's: [Digital Intelligence Animal Translator](https://github.com/WrappedUsername/doggy-decoder)
 
 <p align="middle">
