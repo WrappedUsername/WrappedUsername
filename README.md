@@ -10,7 +10,7 @@
 
 - 📖 I am currently learning a diffuse runtime execution engine called [Jaseci](https://github.com/Jaseci-Labs/jaseci), and a data-spacial programming language called Jac.
 
-- 🔭 I’m currently working on Digital Intelligence PWA's: [Digital Intelligence Animal Translator](https://github.com/WrappedUsername/doggy-decoder)
+- 🔭 I’m currently working on Digital Intelligence PWA's: [Digital Intelligence Animal Translator](https://github.com/WrappedUsername/doggy-decoder), and [Apexmite Content Federation](https://github.com/WrappedUsername/apexmite)
 
 <p align="middle">
 <img alt="astronaut" src="https://user-images.githubusercontent.com/104662990/207430123-8d8f5946-69e0-4125-8e8a-0609f1c9b3e4.png"/>
