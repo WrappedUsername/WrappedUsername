@@ -8,7 +8,7 @@
 <h3 align="center">Tech Entrepreneur 🚀</h3>
 <h4 align="center">🚧 My private repos are probably going to be deleted to save storage space. 🚧</h4>
 
-# LOL, I think I finally found a programming language that I can understand, all of that other stuff 🤪
+# LOL, I think I finally found a programming language that I can understand, all of that other stuff: 🤪
 
 ## 📖 I am currently learning a diffuse runtime execution engine called [Jaseci](https://github.com/Jaseci-Labs/jaseci), and a data-spacial programming language called Jac. Hopefully this will make ERC-4337 account abstraction a breeze! I am looking forward to trying this out soon!
 
