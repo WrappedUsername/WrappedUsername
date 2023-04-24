@@ -54,7 +54,7 @@ Artist: WrappedUsername + DALL*E
 - :rocket: Active in production [Foam Chunk Smudge NFT](https://foam-chunk-smudge.vercel.app/), [Portfolio Website](https://wrappedusernames-portfolio.vercel.app/), and [Journey Blog](https://journey-blog-psi.vercel.app/)
 
 ```yml
-Currently I am learning and using for each:
+I *was* trying to learn all of this non-sense all at once:
 ```
 
 ## Front-end
