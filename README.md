@@ -6,9 +6,27 @@
 </p>
 
 <h3 align="center">Tech Entrepreneur 🚀</h3>
-<h4 align="center">🚧 My repos are private while I refacter the code (all repos after refactoring will be open source). I simply do not want to show my code because it needs a lot of work, sorry I am trying to learn and I just want to get the code corrected before I show my work. 🚧</h4>
+<h4 align="center">🚧 My private repos are probably going to be deleted to save storage space. 🚧</h4>
 
-- 📖 I am currently learning a diffuse runtime execution engine called [Jaseci](https://github.com/Jaseci-Labs/jaseci), and a data-spacial programming language called Jac.
+## 📖 I am currently learning a diffuse runtime execution engine called [Jaseci](https://github.com/Jaseci-Labs/jaseci), and a data-spacial programming language called Jac. Hopefully this will make ERC-4337 account abstraction a breeze! I am looking forward to trying this out soon!
+
+```yml
+Saving state with a maintainer walker:
+```
+
+```jac
+can cleanup with talker entry{
+    if (!vistor:hoping) {
+       spawn *(global.node_conv_root_state) walker::maintainer(
+            user_id = visitor.user_id,
+            user_context = vistor.user_context,
+            dialogue_context = vistor.dialogue_context,
+            last_conv_state = vistor.state_for_continuing
+            // Add ERC-4337 account abstractions or any other saved states, etc here.
+       );
+    }
+}
+```
 
 - 🔭 I’m currently working on Digital Intelligence PWA's: [Digital Intelligence Animal Translator](https://github.com/WrappedUsername/doggy-decoder-jac), and [Apexmite Content Federation](https://github.com/WrappedUsername/apexmite-jac)
 
