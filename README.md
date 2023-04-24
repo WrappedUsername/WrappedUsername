@@ -10,7 +10,7 @@
 
 # LOL, I think I finally found a programming language that I can understand, because all of that other stuff is: 🤪
 
-- Just kidding I love Solidity, and TypsesScript, lol.
+- Just kidding I love Solidity, and TypeScript, lol.
 
 ## 📖 I am currently learning a diffuse runtime execution engine called [Jaseci](https://github.com/Jaseci-Labs/jaseci), and a data-spacial programming language called Jac. Hopefully this will make ERC-4337 account abstraction a breeze! I am looking forward to trying this out soon!
 
