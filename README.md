@@ -8,17 +8,20 @@
 <h3 align="center">Tech Entrepreneur 🚀</h3>
 <h4 align="center">🚧 My private repos are probably going to be deleted to save storage space. 🚧</h4>
 
-# LOL, I think I finally found a programming language that I can understand, because all of that other stuff is: 🤪
+## 📖 I am currently learning a diffuse runtime execution engine called [Jaseci](https://github.com/Jaseci-Labs/jaseci), and a data-spacial programming language called Jac.
 
-- Just kidding I love Solidity, and TypeScript, lol.
+<p align="left"> <a href="https://www.jaseci.org/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/104662990/234766205-bd921c43-885d-46a9-a055-7a7b978a196e.png" alt="jaseci" width="40" height="40"/> </a>    
 
-## 📖 I am currently learning a diffuse runtime execution engine called [Jaseci](https://github.com/Jaseci-Labs/jaseci), and a data-spacial programming language called Jac. Hopefully this will make ERC-4337 account abstraction a breeze! I am looking forward to trying this out soon!
+- Nodes, edges, and walkers can all have abilities.
+  - Abilities cannot interact outside of the context or local variables of the attached node, edge, or walker, and does not have a return.
 
+An example of this would be a maintainer walker saving a user's id and last conversation state for continuing the conversation at a later time. 
+    
 ```yml
 Saving state with a maintainer walker:
 ```
 
-```jac
+```typescript
 can cleanup with talker entry{
     if (!vistor:hoping) {
        spawn *(global.node_conv_root_state) walker::maintainer(
@@ -111,7 +114,8 @@ I *was* trying to learn all of this non-sense all at once:
 - Python (I am researching this for modeling)
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
+<p align="left"> <a href="https://www.jaseci.org/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/104662990/234766205-bd921c43-885d-46a9-a055-7a7b978a196e.png" alt="jaseci" width="40" height="40"/> </a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <a href="https://docs.soliditylang.org/en/v0.8.16/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" alt="solidity" width="40" height="40"/> </a>
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a>
@@ -121,10 +125,7 @@ I *was* trying to learn all of this non-sense all at once:
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>  
   
-<a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>   
-  
-     
+<a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a>     
 </p>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=WrappedUsername&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
