@@ -8,7 +8,7 @@
 <h3 align="center">Tech Entrepreneur 🚀</h3>
 <h4 align="center">🚧 My private repos are probably going to be deleted to save storage space. 🚧</h4>
 
-## 📖 I am currently learning a diffuse runtime execution engine called [Jaseci](https://github.com/Jaseci-Labs/jaseci), and a data-spacial programming language called Jac.
+## 📖 I am currently learning a diffuse runtime execution engine called [Jaseci](https://github.com/Jaseci-Labs/jaseci), and a data-spatial programming language called Jac.
 
 <p align="left"> <a href="https://www.jaseci.org/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/104662990/234766205-bd921c43-885d-46a9-a055-7a7b978a196e.png" alt="jaseci" width="40" height="40"/> </a>    
 
