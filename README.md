@@ -35,7 +35,7 @@ can cleanup with talker entry{
 }
 ```
 
-- 🔭 I’m currently working on Digital Intelligence PWA's: [DIDEGGO DAO - Digital Intelligence Decentralized Global Governance Decentralized Autonomous Organization](https://github.com/WrappedUsername/dideggo), and [Apexmite Content Federation](https://github.com/WrappedUsername/apexmite-jac)
+- 🔭 I’m currently working on Digital Intelligence PWA's: [DIDEGGO, DAO - Digital Intelligence Decentralized Global Governance, Decentralized Autonomous Organization](https://github.com/WrappedUsername/dideggo), and [Apexmite Content Federation](https://github.com/WrappedUsername/apexmite-jac)
 
 <p align="middle">
 <img alt="astronaut" src="https://user-images.githubusercontent.com/104662990/207430123-8d8f5946-69e0-4125-8e8a-0609f1c9b3e4.png"/>
